@@ -1,0 +1,11 @@
+numpy==1.26.2
+matplotlib==3.8.2
+scikit-learn==1.3.2
+
+
+pip install -r requirements.txt
+
+file 01 : -  basics of data visualization
+file 02 : -  2d line graph of data visualization
+file 03 : -  histograms of data visualization
+file 04 : -  scatter plots of data visualization
